@@ -15,7 +15,7 @@ import urllib.request
 from typing import Any
 
 
-BASE_URL = "https://apihub.agnes-ai.com"
+BASE_URL = "https://api.agnes-ai.cn"
 TEXT_MODEL = "agnes-2.0-flash"
 IMAGE_MODEL = "agnes-image-2.1-flash"
 VIDEO_MODEL = "agnes-video-v2.0"
